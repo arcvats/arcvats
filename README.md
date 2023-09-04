@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Github Stats
-
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=arcvats&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=arcvats&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)" />
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=arcvats&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arcvats&langs_count=5&theme=tokyonight)]()
