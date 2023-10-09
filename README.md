@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 😄 Pronouns: he/him
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arcvats&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arcvats&langs_count=11&theme=tokyonight)]()
