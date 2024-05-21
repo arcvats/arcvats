@@ -1,5 +1,19 @@
-### Hi, I am Archit 👋
+### *Hey! I am Archit, a software engineer and a blogger.* 👋
 
+😄 Pronouns: he/him
+
+👯 I’m looking to collaborate on OSS and commercial web projects.
+
+💬 Ask me about my journey and experiences.
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arcvats&layout=compact&langs_count=11&theme=tokyonight)]()
+
+
+#### Bio
+
+Archit is a Lead Software Engineer at Jobvite since 2020. Over the past decade, he has demonstrated his expertise through diverse engineering roles at different organizations as well as through successful completion of numerous freelance projects and OSS contributions. Before moving to Canada, he pursued his academic endeavors in Computer Science at VIT University, India. His formative years were spent in a small town in northern India, where his fascination with Computer Science began. When he is not working, he loves playing guitar, doing yoga, meditation, poetry and reading.
+
+Learn more about me at [**www.arcvats.com**](https://www.arcvats.com). Read my blog at [**blog.arcvats.com**](https://blog.arcvats.com)
 <!--
 **arcvats/arcvats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,14 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-🌱 I’m currently learning **Rust** and ❤️ it.
-
-👯 I’m looking to collaborate on open source and commercial web projects.
-
-💬 Ask me about **System Design**, **Data Structures & Algorithms...**
-
-😄 Pronouns: he/him
+**For networking and project updates, connect with me on *[LinkedIn](https://linkedin.com/in/arcvats)*, follow my insights on [*Twitter/X*](https://x.com/arcvats), and explore my latest projects here on GitHub.**
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arcvats&layout=compact&langs_count=11&theme=tokyonight)]()
