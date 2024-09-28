@@ -6,7 +6,7 @@
 
 💬 Ask me about my journey and experiences.
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arcvats&layout=compact&langs_count=11&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arcvats&layout=compact&langs_count=20&theme=tokyonight)]()
 
 
 #### Bio
