@@ -1,4 +1,4 @@
-### *Hey! I am Archit, a software engineer and a blogger.* 👋
+### *Hey! I am Archit, a software engineer and blogger.* 👋
 
 😄 Pronouns: he/him
 
