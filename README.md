@@ -11,7 +11,7 @@
 
 #### Bio
 
-Archit is a Lead Software Engineer at Jobvite since 2020. Over the past decade, he has demonstrated his expertise through diverse engineering roles at different organizations as well as through successful completion of numerous freelance projects and OSS contributions. Before moving to Canada, he pursued his academic endeavors in Computer Science at VIT University, India. His formative years were spent in a small town in northern India, where his fascination with Computer Science began. When he is not working, he loves playing guitar, doing yoga, meditation, poetry and reading.
+Archit is a Staff Software Engineer at Employ. Over the past decade, he has demonstrated his expertise through diverse engineering roles at different organizations as well as through successful completion of numerous freelance projects and OSS contributions. Before moving to Canada, he pursued his academic endeavors in Computer Science at VIT University, India. His formative years were spent in a small town in northern India, where his fascination with Computer Science began. When he is not working, he loves playing guitar, doing yoga, meditation, poetry and reading.
 
 Learn more about me at [**www.arcvats.com**](https://www.arcvats.com). Read my blog at [**blog.arcvats.com**](https://blog.arcvats.com)
 <!--
